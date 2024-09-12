@@ -1,0 +1,11 @@
+{
+    "name": "Lumx POAP",
+    "description": "Lumx POAP do TDC 2024 SP",
+    "image": "https://ipfs.io/ipfs/QmXBQoizyyTkLdMmJQgsere5PLeJqwAdLbKpXJLYrDCL4k/POAP_Lumx_TDC_SP_2024.jpeg",
+    "attributes": [
+        {
+          "trait-type": "Location",
+          "value": "Sao Paulo"
+        }
+    ]
+  }
